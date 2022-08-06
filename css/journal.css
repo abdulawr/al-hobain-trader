@@ -1,0 +1,27 @@
+.basit {
+    display: inline-block;
+    width: 31%;
+    height: 42px;
+    border-radius: 5px;
+}
+
+.basit2 {
+    display: inline-block;
+    width: 31%;
+    margin-left: 20px;
+    height: 42px;
+    border-radius: 5px;
+}
+
+.link_css {
+    width: 100%;
+    padding: 8px 10px;
+    display: block;
+    color: black;
+    border-bottom: 1px solid lightgray;
+}
+
+.link_css:hover {
+    background: gray;
+    color: white;
+}
